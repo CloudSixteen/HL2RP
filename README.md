@@ -7,12 +7,12 @@ If you wish to [buy HL2RP](http://store.cloudsixteen.com/cart.php) for your Garr
 
 ## Installation
 
-[Cloud Sixteen Wiki](https://wiki.cloudsixteen.com)
+* [Cloud Sixteen Wiki](https://wiki.cloudsixteen.com)
 
 ## Community
 
-[Cloud Sixteen Forums](https://eden.cloudsixteen.com)  
-[Cloud Sixteen Discord](https://discord.gg/gGsSSZj)
+* [Cloud Sixteen Forums](https://eden.cloudsixteen.com)  
+* [Cloud Sixteen Discord](https://discord.gg/gGsSSZj)
 
 ### See Also
 
