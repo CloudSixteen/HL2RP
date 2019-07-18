@@ -1,0 +1,14 @@
+
+"VertexLitGeneric"
+{
+	//"$basetexture" "Models/Police/a"
+	"$basetexture" "Models/Police/eliteshockunit"
+	"$envmap" 		"env_cubemap"
+	"$basealphaenvmapmask" 1
+	"$normalmapalphaenvmapmask" 1
+
+	//"$envmapcontrast" 0.7
+	//"$envmapsaturation" 0.7
+	//"$envmaptint" "[ .36 .36 .36 ]"
+}
+
