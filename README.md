@@ -1,4 +1,7 @@
 # HL2RP
+
+> HL2RP was developed by `kurozael` in 2009 over various iterations of the core framework.
+
 A roleplaying schema by Cloud Sixteen set in the Half-Life universe.
 
 ## Buy HL2RP
