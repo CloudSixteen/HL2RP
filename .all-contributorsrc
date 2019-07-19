@@ -1,0 +1,31 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "kurozael",
+      "name": "Conna Wiles",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/486972?v=4",
+      "profile": "http://kurozael.com",
+      "contributions": [
+        "code",
+        "maintenance",
+        "design",
+        "doc",
+        "infra",
+        "plugin",
+        "security",
+        "projectManagement",
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "HL2RP",
+  "projectOwner": "CloudSixteen",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
