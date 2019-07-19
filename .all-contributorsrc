@@ -21,6 +21,15 @@
         "projectManagement",
         "ideas"
       ]
+    },
+    {
+      "login": "gr4ss",
+      "name": "Arno Biesmans",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1671806?v=4",
+      "profile": "https://github.com/Gr4Ss",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
