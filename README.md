@@ -1,5 +1,5 @@
 # HL2RP
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors)  
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors)  
   
 > HL2RP was developed by `kurozael` in 2009 over various iterations of the core framework. The development and success of HL2RP ultimately lead to the creation of Cloud Sixteen.
 
@@ -36,6 +36,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://jonathandroogh.com"><img src="https://avatars2.githubusercontent.com/u/5252282?v=4" width="100px;" alt="Jonathan Droogh"/><br /><sub><b>Jonathan Droogh</b></sub></a><br /><a href="https://github.com/CloudSixteen/HL2RP/commits?author=xRJx" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/VortixDev"><img src="https://avatars1.githubusercontent.com/u/8403417?v=4" width="100px;" alt="Ryan Saridar"/><br /><sub><b>Ryan Saridar</b></sub></a><br /><a href="#maintenance-VortixDev" title="Maintenance">🚧</a> <a href="https://github.com/CloudSixteen/HL2RP/commits?author=VortixDev" title="Code">💻</a></td>
     <td align="center"><a href="http://alexgrist.com"><img src="https://avatars3.githubusercontent.com/u/180351?v=4" width="100px;" alt="Alex Grist-Hucker"/><br /><sub><b>Alex Grist-Hucker</b></sub></a><br /><a href="https://github.com/CloudSixteen/HL2RP/commits?author=alexgrist" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/impulsh"><img src="https://avatars0.githubusercontent.com/u/2431907?v=4" width="100px;" alt="Igor Radovanovic"/><br /><sub><b>Igor Radovanovic</b></sub></a><br /><a href="https://github.com/CloudSixteen/HL2RP/commits?author=impulsh" title="Code">💻</a></td>
   </tr>
 </table>
 
