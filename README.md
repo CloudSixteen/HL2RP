@@ -1,5 +1,6 @@
 # HL2RP
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors)  
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors)
+[![Discord](https://img.shields.io/discord/126667779095920640.svg)](https://discord.gg/EEg47Dw)
   
 > HL2RP was developed by `kurozael` in 2009 over various iterations of the core framework. The development and success of HL2RP ultimately lead to the creation of Cloud Sixteen.
 
