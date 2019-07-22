@@ -340,7 +340,7 @@ function Schema:GetPlayerScoreboardOptions(player, options, menu)
 	if (Clockwork.command:FindByID("CharPermaKill")) then
 		if (Clockwork.player:HasFlags(Clockwork.Client, Clockwork.command:FindByID("CharPermaKill").access)) then
 			options["OptionPermaKill"] = function()
-				Clockwork.kernel:RunCommand("CharPermaKill", player:name());
+				Clockwork.kernel:RunCommand("CharPermaKill", player:Name());
 			end;
 		end;
 	end;
