@@ -1,5 +1,5 @@
 # HL2RP
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg)](#contributors)
 [![Latest Release](https://img.shields.io/github/release/cloudsixteen/hl2rp.svg)](https://github.com/CloudSixteen/Clockwork/releases/latest)
 [![Discord](https://img.shields.io/discord/126667779095920640.svg)](https://discord.gg/EEg47Dw)
 [![Open Collective sponsors](https://img.shields.io/opencollective/sponsors/cloudsixteen.svg)](https://opencollective.com/cloudsixteen)
