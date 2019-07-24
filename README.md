@@ -1,6 +1,9 @@
 # HL2RP
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors)
+[![Latest Release](https://img.shields.io/github/release/cloudsixteen/atomic.svg)](https://github.com/CloudSixteen/Clockwork/releases/latest)
 [![Discord](https://img.shields.io/discord/126667779095920640.svg)](https://discord.gg/EEg47Dw)
+[![Open Collective sponsors](https://img.shields.io/opencollective/sponsors/cloudsixteen.svg)](https://opencollective.com/cloudsixteen)
+[![GitHub issues](https://img.shields.io/github/issues-raw/cloudsixteen/atomic.svg)](https://github.com/cloudsixteen/atomic/issues)
   
 > HL2RP was developed by `kurozael` in 2009 over various iterations of the core framework. The development and success of HL2RP ultimately lead to the creation of Cloud Sixteen.
 
