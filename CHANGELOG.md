@@ -6,6 +6,8 @@
  - Prevented the Combine prefix and suffix from showing in OOC chat
  - Fixed voices not working in dispatch chat
  - Fixed DvL being able to promote people to DvL rank
+ - Moved the content back to the root directory
+ - Reduced the font size for the sections in character creation
  
 ## 1.3
  - Made faction starting inventories configurable
