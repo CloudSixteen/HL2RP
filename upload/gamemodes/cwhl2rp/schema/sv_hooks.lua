@@ -1164,9 +1164,17 @@ end;
 function Schema:ChatBoxAdjustInfo(info)
 	if (IsValid(info.speaker) and info.speaker:HasInitialized()) then
 		if (table.HasValue(Clockwork.voices.chatClasses, info.class)) then
-			if (info.class == "request" or info.class == "radio" or info.class == "dispatch") then
+			if (info.class == "request" or info.class == "radio") then
 				info.voice = info.voice or {};
 				info.voice.global = true;
+			elseif (info.class == "dispatch") then
+				for k, v in pairs(Clockwork.voices:GetVoices("Dispatch")) do
+					if (string.lower(info.text) == string.lower(v.command)) then
+						Clockwork.player:PlaySound(nil, v.sound);
+						
+						info.text = v.phrase;
+					end;
+				end;
 			end;
 			
 			local playerIsCombine = self:PlayerIsCombine(info.speaker);
