@@ -1,5 +1,5 @@
 # HL2RP
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors)
 [![Latest Release](https://img.shields.io/github/release/cloudsixteen/hl2rp.svg)](https://github.com/CloudSixteen/Clockwork/releases/latest)
 [![Discord](https://img.shields.io/discord/126667779095920640.svg)](https://discord.gg/EEg47Dw)
 [![Open Collective sponsors](https://img.shields.io/opencollective/sponsors/cloudsixteen.svg)](https://opencollective.com/cloudsixteen)
@@ -41,6 +41,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/VortixDev"><img src="https://avatars1.githubusercontent.com/u/8403417?v=4" width="100px;" alt="Ryan Saridar"/><br /><sub><b>Ryan Saridar</b></sub></a><br /><a href="#maintenance-VortixDev" title="Maintenance">🚧</a> <a href="https://github.com/CloudSixteen/HL2RP/commits?author=VortixDev" title="Code">💻</a></td>
     <td align="center"><a href="http://alexgrist.com"><img src="https://avatars3.githubusercontent.com/u/180351?v=4" width="100px;" alt="Alex Grist-Hucker"/><br /><sub><b>Alex Grist-Hucker</b></sub></a><br /><a href="https://github.com/CloudSixteen/HL2RP/commits?author=alexgrist" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/impulsh"><img src="https://avatars0.githubusercontent.com/u/2431907?v=4" width="100px;" alt="Igor Radovanovic"/><br /><sub><b>Igor Radovanovic</b></sub></a><br /><a href="https://github.com/CloudSixteen/HL2RP/commits?author=impulsh" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/mark27205"><img src="https://avatars1.githubusercontent.com/u/22839376?v=4" width="100px;" alt="mark272"/><br /><sub><b>mark272</b></sub></a><br /><a href="https://github.com/CloudSixteen/HL2RP/commits?author=mark27205" title="Tests">⚠️</a></td>
   </tr>
 </table>
 
