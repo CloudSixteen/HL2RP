@@ -5,5 +5,5 @@
 	"description"	"A roleplaying schema by Cloud Sixteen set in the Half-Life universe."
 	"version"		"1.3"
 	"menusystem"	"1"
-	"workshopid"	"108727894"
+	"workshopid"	"1828876038"
 }
