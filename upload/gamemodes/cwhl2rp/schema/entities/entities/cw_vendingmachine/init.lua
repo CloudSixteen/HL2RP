@@ -1,5 +1,5 @@
 --[[
-	© CloudSixteen.com do not share, re-distribute or modify
+	Â© CloudSixteen.com do not share, re-distribute or modify
 	without permission of its author (kurozael@gmail.com).
 --]]
 
@@ -29,19 +29,23 @@ function ENT:CreateWater(activator)
 	self:GiveStock(-1);
 	self:EmitSound("buttons/button4.wav");
 	self:SetFlashDuration(3, true);
-	
+
 	local forward = self:GetForward() * 18;
 	local chance = math.random(1, 20);
 	local right = self:GetRight() * 3;
 	local up = self:GetUp() * -24;
-	
+
+	local class
 	if (chance == 20) then
-		Clockwork.entity:CreateItem(activator, Clockwork.item:CreateInstance("special_breens_water"), self:GetPos() + forward + right + up, self:GetAngles());
+		class = "special_breen_s_water"
 	elseif (chance >= 10) then
-		Clockwork.entity:CreateItem(activator, Clockwork.item:CreateInstance("smooth_breens_water"), self:GetPos() + forward + right + up, self:GetAngles());
+		class = "smooth_breen_s_water"
 	else
-		Clockwork.entity:CreateItem(activator, Clockwork.item:CreateInstance("breens_water"), self:GetPos() + forward + right + up, self:GetAngles());
+		class = "breen_s_water"
 	end;
+
+	local item = Clockwork.item:CreateInstance(class)
+	Clockwork.entity:CreateItem(activator, item, self:GetPos() + forward + right + up, self:GetAngles());
 end;
 
 -- A function to get the entity's default stock.
