@@ -43,9 +43,8 @@ function ENT:CreateWater(activator)
 	else
 		class = "breen_s_water"
 	end;
-
-	local item = Clockwork.item:CreateInstance(class)
-	Clockwork.entity:CreateItem(activator, item, self:GetPos() + forward + right + up, self:GetAngles());
+	
+	Clockwork.entity:CreateItem(activator, Clockwork.item:CreateInstance(class), self:GetPos() + forward + right + up, self:GetAngles());
 end;
 
 -- A function to get the entity's default stock.
