@@ -35,13 +35,14 @@ function ENT:CreateWater(activator)
 	local right = self:GetRight() * 3;
 	local up = self:GetUp() * -24;
 
-	local class
+	local class;
+	
 	if (chance == 20) then
-		class = "special_breen_s_water"
+		class = "special_breen_s_water";
 	elseif (chance >= 10) then
-		class = "smooth_breen_s_water"
+		class = "smooth_breen_s_water";
 	else
-		class = "breen_s_water"
+		class = "breen_s_water";
 	end;
 	
 	Clockwork.entity:CreateItem(activator, Clockwork.item:CreateInstance(class), self:GetPos() + forward + right + up, self:GetAngles());
