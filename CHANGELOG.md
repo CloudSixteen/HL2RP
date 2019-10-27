@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.3.2
+ - Changed the folder name to fix a problem with the server browser
+
 ## 1.3.1-beta
  - Fixed "Tokens" and "Wages" display issues
  - Fixed an error which occured under certain conditions whilst viewing the scoreboard
