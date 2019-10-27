@@ -1,6 +1,6 @@
 "cwhl2rp"
 {
-	"title"			"HL2 RP"
+	"title"			"HL2RP"
 	"author"		"kurozael"
 	"description"	"A roleplaying schema by Cloud Sixteen set in the Half-Life universe."
 	"version"		"1.3"
