@@ -1,4 +1,4 @@
-"cwhl2rp"
+"hl2rp"
 {
 	"title"			"HL2RP"
 	"author"		"kurozael"
