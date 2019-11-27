@@ -1,5 +1,5 @@
 --[[
-	� CloudSixteen.com do not share, re-distribute or modify
+	© CloudSixteen.com do not share, re-distribute or modify
 	without permission of its author (kurozael@gmail.com).
 --]]
 
@@ -556,11 +556,10 @@ end;
 
 -- A function to get a player's location.
 function Schema:PlayerGetLocation(player)
-	local areaNames = Clockwork.plugin:FindByID("Area Names");
 	local closest;
 	
-	if (areaNames) then
-		for k, v in pairs(areaNames.areaNames) do
+	if (cwAreaDisplays) then
+		for k, v in pairs(cwAreaDisplays.areaNames) do
 			if (Clockwork.entity:IsInBox(player, v.minimum, v.maximum)) then
 				if (string.sub(string.lower(v.name), 1, 4) == "the ") then
 					return string.sub(v.name, 5);
