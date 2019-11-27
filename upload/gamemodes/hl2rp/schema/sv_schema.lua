@@ -559,7 +559,7 @@ function Schema:PlayerGetLocation(player)
 	local closest;
 	
 	if (cwAreaDisplays) then
-		for k, v in pairs(cwAreaDisplays.areaNames) do
+		for k, v in pairs(cwAreaDisplays.storedList) do
 			if (Clockwork.entity:IsInBox(player, v.minimum, v.maximum)) then
 				if (string.sub(string.lower(v.name), 1, 4) == "the ") then
 					return string.sub(v.name, 5);
