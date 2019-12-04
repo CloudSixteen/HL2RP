@@ -141,7 +141,7 @@ CW_TURKISH["ChatPlayerDispatch"] = ":color1:Mesaj yayınlıyor: \"#1\"";
 CW_TURKISH["ChatPlayerRequest"] = ":color1:#1 istiyor: \"#2\"";
 
 CW_TURKISH["YouAlreadyHavePermit"] = "Zaten bu izine sahipsin!";
-CW_TURKISH["NotValidPermit"] = "Buy geçerli bir izin değil!";
+CW_TURKISH["NotValidPermit"] = "Bu geçerli bir izin değil!";
 CW_TURKISH["PermitsNotEnabled"] = "İzin sistemi aktif değil!";
 CW_TURKISH["YouAreNotACitizen"] = "Vatandaş değilsin!";
 
@@ -269,7 +269,7 @@ CW_TURKISH["ItemBoxedBackpack"] = "Kutulu Sırt Çantası";
 CW_TURKISH["ItemBoxedBackpackDesc"] = "Kahverengi bir kutu, içeriğini ortaya çıkarmak için açın.";
 CW_TURKISH["ItemBoxedBag"] = "Kutulu Çanta";
 CW_TURKISH["ItemBoxedBagDesc"] = "Kahverengi bir kutu, içeriğini ortaya çıkarmak için açın.";
-CW_TURKISH["ItemBreach"] = "Breach";
+CW_TURKISH["ItemBreach"] = "İhlal";
 CW_TURKISH["ItemBreachDesc"] = "Asma kilit gibi görünen küçük bir cihaz.";
 CW_TURKISH["ItemBreensWater"] = "Breen'in Suyu";
 CW_TURKISH["ItemBreensWaterDesc"] = "Mavi bir alüminyum kutu, salladığınızda parlar.";
@@ -281,7 +281,7 @@ CW_TURKISH["ItemCombineLock"] = "Combine Kilidi";
 CW_TURKISH["ItemCombineLockDesc"] = "Bir kapıyı etkin bir şekilde kilitlemek için kullanılan combine cihazı.";
 CW_TURKISH["ItemFlash"] = "Flash";
 CW_TURKISH["ItemFlashDesc"] = "Kirli bir toz borusu, bunun bir el bombası olması gerekiyordu?";
-CW_TURKISH["ItemSmoke"] = "Smoke";
+CW_TURKISH["ItemSmoke"] = "Duman";
 CW_TURKISH["ItemSmokeDesc"] = "Kirli bir toz borusu, bunun bir el bombası olması gerekiyordu?";
 CW_TURKISH["ItemFlash"] = "Flash";
 CW_TURKISH["ItemFlashDesc"] = "Kirli bir toz borusu, bunun bir el bombası olması gerekiyordu?";
