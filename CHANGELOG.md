@@ -3,7 +3,8 @@
 ## 1.3.3
 
 - Fixed Combine Overlay not correctly showing location based on the Area Displays plugin from Clockwork
-
+- Make sure the folder in your gamemodes directory is clockwork_hl2rp as this should fix the server listing problems
+ 
 ## 1.3.2
  - Changed the folder name to fix a problem with the server browser
 
