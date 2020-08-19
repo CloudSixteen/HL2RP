@@ -10,12 +10,12 @@ CW_KOREAN = Clockwork.lang:GetTable("Korean");
 
 CW_KOREAN["Acrobatics"] = "곡예";
 CW_KOREAN["Dexterity"] = "손재주";
-CW_KOREAN["Endurance"] = "지구력";
-CW_KOREAN["Medical"] = "의료";
-CW_KOREAN["Strength"] = "체력";
+CW_KOREAN["Endurance"] = "내구력";
+CW_KOREAN["Medical"] = "의학 지식";
+CW_KOREAN["Strength"] = "근력";
 CW_KOREAN["Agility"] = "민첩";
 
-CW_KOREAN["Objectives"] = "오브젝트";
+CW_KOREAN["Objectives"] = "목표";
 
 CW_KOREAN["Breach"] = "브리치";
 CW_KOREAN["BreachTargetID"] = "문을 부수는데에 사용합니다.";
@@ -349,3 +349,31 @@ CW_KOREAN["CharacterPermanentlyKilled"] = "이 캐릭터는 영구적으로 사�
 CW_KOREAN["GoToCharScreenToMakeNew"] = "캐릭터 메뉴로 돌아가 새로운 캐릭터를 만드세요.";
 CW_KOREAN["YouAreBeingTiedUpCenter"] = "수갑에 묶이는 중입니다";
 CW_KOREAN["YouHaveBeenTiedUpCenter"] = "수갑에 묵여 있습니다";
+
+CW_KOREAN["DexterityDesc"] = "전반적인 손재주에 대한 능력치입니다. 예: 수갑을 묶거나 푸는 속도";
+CW_KOREAN["EnduranceDesc"] = "전반적인 내구력에 대한 능력치입니다. 예: 데미지 감소율";
+CW_KOREAN["MedicalDesc"] = "전반적인 의학 지식에 대한 능력치입니다. 예: 회복 아이템을의 회복 량";
+CW_KOREAN["StrengthDesc"] = "전반적인 힘에 대한 능력치입니다. 예: 주먹의 공격력";
+CW_KOREAN["AcrobaticsDesc"] = "얼마나 높게 뛸 수 있는지에 대한 능력치입니다.";
+CW_KOREAN["AgilityDesc"] = "전반적인 속도에 대한 능력치입니다. 예: 달리는 속도";
+
+CW_KOREAN["PurchasePermitGeneralGoodsHelp"] = "일반적인 아이템에 대한 사업 허가증을 구매합니다.";
+CW_KOREAN["BusinessCreateHelpText"] = "여러 사업 아이템을 사업 메뉴에 추가할 수 있는 사업과 그 사업의 허가증을 생성합니다.";
+CW_KOREAN["PurchasePermitCustomHelp"] = "#1 사업 허가증을 구매하여 허가증과 관련된 사업 아이템을 사업 메뉴에 추가할 수 있습니다.";
+
+CW_KOREAN["CreateBusiness"] = "사업 생성";
+CW_KOREAN["PermitsTitle"] = "사업 허가증";
+
+CW_KOREAN["PlayerInfoCash"] = "토큰: #2";
+CW_KOREAN["PlayerInfoWages"] = "임금: #2";
+CW_KOREAN["PlayerInfoName"] = "#1";
+CW_KOREAN["PlayerInfoClass"] = "#1";
+
+CW_KOREAN["CmdStorageGiveCash"] = "저장고에 토큰을 저장합니다.";
+CW_KOREAN["CmdStorageTakeCash"] = "저장고로 부터 토큰을 가져옵니다.";
+CW_KOREAN["CmdGiveCash"] = "바라보고 있는 캐릭터에게 토큰을 줍니다.";
+CW_KOREAN["CmdDropCash"] = "바라보는 위치에 토큰을 떨어트립니다.";
+CW_KOREAN["CmdSetCash"] = "캐릭터의 토큰을 설정합니다.";
+CW_KOREAN["CashAmountSingular"] = "#1";
+CW_KOREAN["CashAmount"] = "#1 토큰";
+CW_KOREAN["Cash"] = "토큰";
