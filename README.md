@@ -1,3 +1,7 @@
+# Clockwork: HL2RP is no longer being actively maintained.
+
+As of March 2021, since the relicensing of Clockwork as MIT and the deprecation of CloudAuthX, the Clockwork: HL2RP schema is no longer being actively maintained, supported, or developed. Contributors are welcome to fork their own maintaned version of Clockwork: HL2RP, as well as open pull requests.
+
 # HL2RP
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg)](#contributors)
 [![Latest Release](https://img.shields.io/github/release/cloudsixteen/hl2rp.svg)](https://github.com/CloudSixteen/Clockwork/releases/latest)
